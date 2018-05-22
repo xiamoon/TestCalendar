@@ -1,0 +1,22 @@
+PODS:
+  - FSCalendar (2.7.9)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - FSCalendar
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSCalendar
+    - YYKit
+
+SPEC CHECKSUMS:
+  FSCalendar: a04b09f16f811bc92e82f3cf852a15225233b9d5
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 82330754867cc769fe2007170badcbf8e203a996
+
+COCOAPODS: 1.5.2
